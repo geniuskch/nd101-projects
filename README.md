@@ -1,5 +1,8 @@
 # nd101-projects
-Projects source code for Deep Learning Nanodegree Foundation
+Projects source code for Udacity Deep Learning Nanodegree Foundation
+- https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101
+- https://github.com/udacity/deep-learning
+
 
 - Project 1
   - Your First Neural Network: Implement a neural network in Numpy to predict bike rentals.
